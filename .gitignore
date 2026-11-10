@@ -1,0 +1,26 @@
+# Сборка
+build/
+dist/
+release/
+*.spec
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Рабочие файлы программы
+passport_work/
+*.log
+*.lnk
+
+# Локальные данные и архивы для проверок
+learn/
+.opencode/
+
+# Системный мусор
+Thumbs.db
+desktop.ini
+.DS_Store

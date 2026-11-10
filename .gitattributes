@@ -1,0 +1,12 @@
+* text=auto
+
+*.py   text eol=lf
+*.md   text eol=lf
+*.jsx  text eol=lf
+*.txt  text eol=lf
+*.ini  text eol=crlf
+*.cmd  text eol=crlf
+
+*.psd  binary
+*.onnx binary
+*.exe  binary
